@@ -8,3 +8,6 @@ This is a project that uses Embedding vector Nuclei's template document. Running
 
 ### How to Use
 https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb_Q
+
+
+Nuclei官网已经出了AI生成插件，可以到对应仓库进行查看：https://github.com/projectdiscovery/nuclei-ai-extension
